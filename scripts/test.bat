@@ -3,6 +3,6 @@
 @echo $URL=%2
 @echo $SHA2=%3
 
-ping 192.168.1.1
+ping www.google.pl
 
 @exit /b 0
