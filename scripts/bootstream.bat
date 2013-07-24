@@ -2,6 +2,7 @@
 
 @echo $URL=url
 @echo $SHA2=sha2
+@echo $VERSION=1.0.0
 
 ping www.google.pl
 
